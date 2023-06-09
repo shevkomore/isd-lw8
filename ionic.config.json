@@ -1,0 +1,7 @@
+{
+  "name": "isd-lw8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
